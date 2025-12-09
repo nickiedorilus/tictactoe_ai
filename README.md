@@ -12,3 +12,5 @@ The AI uses the **Minimax algorithm** with **Alpha-Beta Pruning** to always make
 
 ## Video Presentation
 https://d.pr/v/HFmfun
+
+Google drive video link: https://drive.google.com/file/d/1sEHb6u-v9HJO45fO9zZ-eQEbe2GAKICI/view?usp=drive_link
